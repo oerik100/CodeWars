@@ -1,3 +1,3 @@
-// ProblemS
+// Problems
 
 // Solution
